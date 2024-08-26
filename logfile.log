@@ -1,0 +1,19 @@
+2024-08-25 22:15:58,417 :INFO : test_e2e :getting all the product name
+2024-08-25 22:15:58,648 :INFO : test_e2e :iphone X
+2024-08-25 22:15:58,699 :INFO : test_e2e :Samsung Note 8
+2024-08-25 22:15:58,745 :INFO : test_e2e :Nokia Edge
+2024-08-25 22:15:58,774 :INFO : test_e2e :Blackberry
+2024-08-26 12:15:01,736 :INFO : test_e2e :getting all the product name
+2024-08-26 12:15:01,860 :INFO : test_e2e :iphone X
+2024-08-26 12:15:01,923 :INFO : test_e2e :Samsung Note 8
+2024-08-26 12:15:01,973 :INFO : test_e2e :Nokia Edge
+2024-08-26 12:15:02,028 :INFO : test_e2e :Blackberry
+2024-08-26 12:15:08,146 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2024-08-26 12:18:12,047 :INFO : test_e2e :getting all the product name
+2024-08-26 12:18:12,168 :INFO : test_e2e :iphone X
+2024-08-26 12:18:12,220 :INFO : test_e2e :Samsung Note 8
+2024-08-26 12:18:12,272 :INFO : test_e2e :Nokia Edge
+2024-08-26 12:18:12,322 :INFO : test_e2e :Blackberry
+2024-08-26 12:18:18,597 :INFO : test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
